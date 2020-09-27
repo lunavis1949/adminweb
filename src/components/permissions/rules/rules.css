@@ -1,0 +1,45 @@
+.headers{
+    padding: 0 0 20px 0;
+}
+.titles {
+  background: #e8edf0;
+  padding: 5px 15px;
+
+}
+
+.titles p {
+  font-size: 12px;
+}
+
+.row-bg {
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.right_content{
+  border:1px solid #EBEEF5;
+  width: 95%;
+  margin: 0 auto;
+  height: 430px;
+}
+
+.perm_list{
+  line-height: 30px;
+  border-bottom: 1px solid #eee;
+}
+.none_from{
+  position: absolute;
+  right: 0px;
+  /* background: radial-gradient(black, transparent); */
+  width: 100%;
+  z-index: 999;
+  top: 40px;
+}
+.titlew{
+  text-align: center;
+
+  line-height: 50px;
+  color: #f18d00;
+}
+
+

@@ -1,0 +1,19 @@
+.headers{
+    padding: 0 0 20px 0;
+}
+.titles {
+  background: #e8edf0;
+  padding: 5px 15px;
+
+}
+
+.titles p {
+  font-size: 12px;
+}
+
+.row-bg {
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+

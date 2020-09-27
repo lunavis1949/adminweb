@@ -1,0 +1,4 @@
+.el-upload-list--picture-card .el-upload-list__item{
+    width:50px !important; 
+    height: 50px !important;
+}

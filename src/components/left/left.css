@@ -1,0 +1,24 @@
+.left {
+  /* margin-top: 50px; */
+}
+
+.left_list {
+  background: #222d32;
+  color: #fff;
+  /* text-align: center; */
+
+}
+
+.el-menu-vertical-demo {
+  background: #f1f4f6;
+  color: #fff
+}
+
+.group {
+  background: #f1f4f6;
+  
+}
+
+.el-menu-item-group__title{
+  padding-top: 0px;
+}

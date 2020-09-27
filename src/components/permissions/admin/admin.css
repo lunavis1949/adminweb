@@ -1,0 +1,23 @@
+.headers{
+    padding: 0 0 20px 0;
+}
+.titles {
+  background: #e8edf0;
+  padding: 5px 15px;
+
+}
+
+.titles p {
+  font-size: 12px;
+}
+
+.row-bg {
+    align-items: center;
+    margin-bottom: 15px;
+}
+.ZD_sw{
+  line-height: 30px;
+  font-size: 14px;
+  margin-left: 20px;
+
+}

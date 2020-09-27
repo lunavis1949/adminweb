@@ -1,0 +1,12 @@
+#imgs .el-upload-list--picture-card .el-upload-list__item{
+    width: 65px;
+    height: 65px;
+  }
+  #imgs .el-upload--picture-card {
+    width: 65px;
+    height: 65px;
+  }
+  #imgs .el-icon-plus {
+    display: block;
+    margin-top: 15px;
+  }
